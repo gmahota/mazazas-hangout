@@ -45,18 +45,6 @@ export const NAVIGATION = [
     route: '/stage/a'
   },
   {
-    name: 'Stage C',
-    route: '/stage/c'
-  },
-  {
-    name: 'Stage M',
-    route: '/stage/m'
-  },
-  {
-    name: 'Stage E',
-    route: '/stage/e'
-  },
-  {
     name: 'Schedule',
     route: '/schedule'
   },
@@ -69,7 +57,7 @@ export const NAVIGATION = [
     route: '/expo'
   },
   {
-    name: 'Jobs',
+    name: 'Register',
     route: '/jobs'
   }
 ];
